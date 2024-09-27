@@ -1,5 +1,5 @@
 {
-    "name": "paustudio/craftcms-faker",
+    "name": "craftpulse/craft-faker",
     "description": "Fake entry fields for CraftCMS",
     "type": "craft-plugin",
     "keywords": [
