@@ -9,7 +9,7 @@
         "craft-plugin"
     ],
     "require": {
-        "craftcms/cms": "^3|^4.0.0-alpha",
+        "craftcms/cms": "^4.0 | ^5.0",
         "php": "^8.0.2"
     },
     "autoload": {
