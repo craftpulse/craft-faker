@@ -5,9 +5,9 @@ Craft CMS Faker provides a handful of models that you can create an instance of 
 For example, if you're passing an image to a template, you can access the attributes of the "fake" image just as you would with an Asset from Craft CMS.
 
 ## Installation
-To install the plugin, require it as a composer dependancy as follows: 
+To install the plugin, require it as a composer dependancy as follows and add repositories to composer.json refering vcs to this repo 
 ```
-composer require jordanbeattie/craftcms-faker
+composer require craftpulse/craft-faker
 ```
 
 You can then install the plugin via the plugins section of Craft or by running the following command. 
